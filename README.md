@@ -3,6 +3,7 @@
 ![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=for-the-badge)
 ![Prompting](https://img.shields.io/badge/Prompting-7%20Symbols-2563EB?style=for-the-badge)
 ![Korean First](https://img.shields.io/badge/Korean-First-16A34A?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 기호 7개만으로 막연한 요청을 복붙 가능한 AI 프롬프트로 바꿔주는 Codex skill입니다.
 
@@ -121,6 +122,7 @@ claude -p '/easy-prompt-symbols
 
 ```text
 easy-prompt-symbols/
+├── LICENSE
 ├── SKILL.md
 ├── README.md
 └── agents/
@@ -134,4 +136,4 @@ easy-prompt-symbols/
 
 ## 라이선스
 
-아직 별도 라이선스를 지정하지 않았습니다.
+MIT License입니다. 자세한 내용은 [LICENSE](LICENSE)를 확인하세요.
