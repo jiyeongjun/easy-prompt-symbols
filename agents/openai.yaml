@@ -1,0 +1,4 @@
+interface:
+  display_name: "Easy Prompt Symbols"
+  short_description: "쉬운 기호 7개로 누구나 프롬프트를 바로 만듭니다"
+  default_prompt: "Use $easy-prompt-symbols to turn my rough request into an easy symbol-based prompt."
